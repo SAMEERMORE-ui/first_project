@@ -1,1 +1,1 @@
-# first_project
+This is my first project, where I developed a basic ATM simulator using Java. The application provides fundamental banking functionalities, allowing users to perform essential operations such as withdrawing cash, depositing money, and checking their current account balance. It serves as a simple yet effective demonstration of core Java concepts like user input handling, conditional statements, and method usage.
